@@ -1,0 +1,37 @@
+{
+  "message": "Addons retrieved successfully",
+  "success": true,
+  "data": [
+    {
+      "id": 1,
+      "name": "addon 1",
+      "description": null,
+      "price": "10.00",
+      "created_at": "2023-05-01T08:40:59.000000Z",
+      "updated_at": "2023-05-01T08:40:59.000000Z",
+      "deleted_at": null,
+      "company_id": "1"
+    },
+    {
+      "id": 2,
+      "name": "addon 2",
+      "description": null,
+      "price": "15.00",
+      "created_at": "2023-05-01T08:40:59.000000Z",
+      "updated_at": "2023-05-01T08:40:59.000000Z",
+      "deleted_at": null,
+      "company_id": "1"
+    },
+    {
+      "id": 3,
+      "name": "addon 3",
+      "description": null,
+      "price": "5.00",
+      "created_at": "2023-05-01T08:43:55.000000Z",
+      "updated_at": "2023-05-01T08:43:55.000000Z",
+      "deleted_at": null,
+      "company_id": "1"
+    }
+  ]
+}
+

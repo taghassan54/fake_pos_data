@@ -1,0 +1,24 @@
+{
+  "total": 1,
+  "limit": 10,
+  "offset": 1,
+  "transactions": [
+    {
+      "id": 1,
+      "tran_type": "1",
+      "account_id": "1",
+      "amount": "200",
+      "description": "description",
+      "debit": "0",
+      "credit": "127",
+      "balance": "200",
+      "date": "2023-02-06",
+      "customer_id": "1",
+      "supplier_id": "",
+      "order_id": "1",
+      "created_at": "2023-02-06T08:58:36.000000Z",
+      "updated_at": "2023-02-06T08:58:36.000000Z",
+      "company_id": "1"
+    }
+  ]
+}

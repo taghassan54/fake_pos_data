@@ -1,0 +1,25 @@
+{
+  "total": 1,
+  "limit": 10,
+  "offset": 1,
+  "products": [
+    {
+      "id": 1,
+      "title": "Veda Austin",
+      "product_code": "25059",
+      "unit_type": "1",
+      "unit_value": "",
+      "category_ids": [
+        {"id": "4", "position": 1},
+        {"id": "26", "position": 2}
+      ],
+      "purchase_price": "100",
+      "selling_price": "136",
+      "discount_type": "amount",
+      "discount": "10.00",
+      "tax": "4.00",
+      "quantity": "662",
+      "image": "http://6pos.taleem.top/storage/app/public/product/2023-02-04-63dd523d89f4d.png"
+    }
+  ]
+}

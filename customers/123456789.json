@@ -1,0 +1,39 @@
+{
+  "total": 1,
+  "limit": 10,
+  "offset": 1,
+  "customers": [
+    {
+      "id": 7,
+      "name": "Inez Brown",
+      "mobile": "5",
+      "email": "byfosopov@mailinator.com",
+      "image": "2023-02-05-63df7aeab488e.png",
+      "state": "Esse temporibus impe",
+      "city": "Aut amet voluptatem",
+      "zip_code": "82666",
+      "address": "Minus dignissimos co",
+      "balance": "0",
+      "created_at": "2023-02-05T09:46:19.000000Z",
+      "updated_at": "2023-02-05T09:46:19.000000Z",
+      "company_id": "1",
+      "orders_count": "0"
+    },
+    {
+      "id": 8,
+      "name": "Ora Mosley",
+      "mobile": "27",
+      "email": "vurut@mailinator.com",
+      "image": "def.png",
+      "state": "Atque aute magnam do",
+      "city": "Voluptatum lorem nat",
+      "zip_code": "98285",
+      "address": "In quibusdam tempori",
+      "balance": "0",
+      "created_at": "2023-02-05T09:46:27.000000Z",
+      "updated_at": "2023-02-05T09:46:27.000000Z",
+      "company_id": "1",
+      "orders_count": "0"
+    }
+  ]
+}

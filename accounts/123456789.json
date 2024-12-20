@@ -1,0 +1,67 @@
+{
+  "total": 1,
+  "limit": 10,
+  "offset": 1,
+  "accounts": [
+    {
+      "id": 5,
+      "account": "Bank Transfer",
+      "description": "Bank Transfer",
+      "balance": 0,
+      "account_number": "0077686543",
+      "total_in": null,
+      "total_out": null,
+      "created_at": "2023-02-21T16:18:44.000000Z",
+      "updated_at": "2023-02-21T16:18:44.000000Z",
+      "company_id": null
+    },
+    {
+      "id": 4,
+      "account": "Standard Chartered",
+      "description": "Personal account",
+      "balance": 3077.5,
+      "account_number": "201224747C",
+      "total_in": 2977.5,
+      "total_out": null,
+      "created_at": "2022-09-20T04:09:43.000000Z",
+      "updated_at": "2022-09-20T10:34:44.000000Z",
+      "company_id": null
+    },
+    {
+      "id": 3,
+      "account": "Receivable",
+      "description": "Default account",
+      "balance": 4140,
+      "account_number": "3",
+      "total_in": 4839.58,
+      "total_out": 699.58,
+      "created_at": "2021-11-27T23:07:36.000000Z",
+      "updated_at": "2022-09-20T10:23:11.000000Z",
+      "company_id": null
+    },
+    {
+      "id": 2,
+      "account": "Payable",
+      "description": "td",
+      "balance": 100.42,
+      "account_number": "2",
+      "total_in": 100.42,
+      "total_out": 0,
+      "created_at": "2021-11-27T23:07:21.000000Z",
+      "updated_at": "2022-09-20T10:22:01.000000Z",
+      "company_id": null
+    },
+    {
+      "id": 1,
+      "account": "Cash",
+      "description": "Default account",
+      "balance": 26945.78,
+      "account_number": "1",
+      "total_in": 34045.78,
+      "total_out": 7100,
+      "created_at": "2021-11-27T23:06:59.000000Z",
+      "updated_at": "2023-02-21T16:39:36.000000Z",
+      "company_id": null
+    }
+  ]
+}

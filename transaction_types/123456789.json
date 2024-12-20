@@ -1,0 +1,4 @@
+{
+ "types": [{"id":3,"tran_type":"Expense"},{"id":1,"tran_type":"Income"},{"id":2,"tran_type":"Receivable"},{"id":4,"tran_type":"Transfer"}]
+
+}
