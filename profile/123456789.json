@@ -30,5 +30,15 @@
     "time_zone": "America/Bogota",
     "vat_reg_no": "00997435323",
     "user_id": 2
+  },
+  
+  "subscription":{
+    "id":1,
+    "user_id":2,
+    "start_date":"2024-12-20",
+    "end_date":"2025-12-20",
+    "period":365,
+    "created_at":"",
+    "updated_at":"",
   }
 }
